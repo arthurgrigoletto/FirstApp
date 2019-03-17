@@ -6,6 +6,15 @@ import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+/**
+ *
+ *
+ *  Arthur Grigoletto Navarro de Lima
+ *  817121874
+ *
+ *
+ */
+
 public class DisplayMessageActivity extends AppCompatActivity {
 
     @Override

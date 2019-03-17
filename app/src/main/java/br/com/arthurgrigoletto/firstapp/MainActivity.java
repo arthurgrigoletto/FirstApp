@@ -6,6 +6,15 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
+/**
+ *
+ *
+ *  Arthur Grigoletto Navarro de Lima
+ *  817121874
+ *
+ *
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     public final static String EXTRA_MESSAGE =
